@@ -1,0 +1,23 @@
+/* pages/log/log.wxss */
+
+.container .first text{
+    border: blue 1rpx;
+    padding-left: 300rpx;
+    margin-bottom: 15rpx;
+}
+.container .first image{
+border: solid rgb(30, 158, 233) 1rpx;
+height: 300rpx;
+width: 300rpx;
+}
+
+.container .second text{
+    border: blue 1rpx;
+    padding-left: 300rpx;
+    margin-bottom: 15rpx;
+}
+.container .second image{
+border: solid rgb(30, 158, 233) 1rpx;
+height: 500rpx;
+width: 745rpx;
+}

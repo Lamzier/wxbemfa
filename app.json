@@ -1,0 +1,42 @@
+{
+  
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/log/log"
+  ], 
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor":"#39a",
+    "navigationBarTitleText": "王大妈的小家电",
+    "navigationBarTextStyle":"white" 
+  },
+  "tabBar": {
+    "color": "black",
+    "selectedColor": "#39a",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "position": "bottom",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "/picture/狗.png",
+        "selectedIconPath": "/picture/雷达图.png"
+      },
+      {
+        "pagePath": "pages/log/log",
+        "text": "变化",
+        "iconPath": "/picture/机器视觉.png",
+        "selectedIconPath": "/picture/图表折线图.png"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "日志",
+        "iconPath": "/picture/用研.png",
+        "selectedIconPath": "/picture/卷.png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}

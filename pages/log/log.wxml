@@ -1,0 +1,20 @@
+<!--pages/log/log.wxml-->
+<view class="container">
+
+<view class="first">
+<text>王大妈</text>
+<image src="http://m.qpic.cn/psc?/V54Au2XV1jXrXP0NIFZX1QkSXS2N5pFo/TmEUgtj9EK6.7V8ajmQrEBMSwju0ZK*etH30wa8xeHe40*PD7o5sDEvrVzUqNk1GoJBTS*tahHs3YfH4IUQyP1zMWqJYk95W8GD.YS8hX74!/b&bo=vAK8AgAAAAABFzA!">  
+</image>  
+</view>
+
+
+<view class="second">
+<text>温湿度变化</text>
+<image src="http://m.qpic.cn/psc?/V54Au2XV1jXrXP0NIFZX1QkSXS2VOqzf/TmEUgtj9EK6.7V8ajmQrEKl7zEsebNBrV7XK7EVfj.OJZaTIM0e9shGepNOGpZEN3IlaQOC.H.nYh*WB.0NOrw.0l1ijljOn9XONoyIPhDs!/b&bo=hgXoA4YF6AMBKQ4!&rf=viewer_4">  
+</image>  
+</view>
+
+
+
+</view>
+
