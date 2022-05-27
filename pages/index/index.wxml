@@ -10,8 +10,17 @@
 </van-cell-group>
 <!--设备状态-->
 <van-cell-group>
-  <van-cell title="LED状态" value="{{ledOnOff}}" />
+  <van-cell title="LED状态" value="{{webState.deng}}" />
 </van-cell-group>
+<van-cell-group>
+  <van-cell title="风扇状态" value="{{webState.fengshan}}" />
+</van-cell-group>
+<van-cell-group>
+  <van-cell title="窗户状态" value="{{webState.chuanghu}}" />
+</van-cell-group>
+
+
+
 <!--时间显示-->
 <view class="dataTime">上传时间：{{dataTime}}</view>
 
